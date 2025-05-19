@@ -1,0 +1,22 @@
+{
+  "name": "betterhelpsdet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwkane/BetterHelpSDET.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwkane/BetterHelpSDET/issues"
+  },
+  "homepage": "https://github.com/dwkane/BetterHelpSDET#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.19"
+  }
+}
